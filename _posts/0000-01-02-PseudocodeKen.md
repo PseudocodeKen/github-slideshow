@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We must seek the higher ground.
 Use the left arrow to go back!
